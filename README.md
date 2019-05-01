@@ -1,11 +1,12 @@
 # Board Game Review:game_die:
 <img src='images\bg2.jpg'>
+
 >A board game is a tabletop game that involves counters or pieces moved or placed on a pre-marked surface or "board", according to a set of rules. Some games are based on pure strategy, but many contain an element of chance; and some are purely chance, with no element of skill.  
 
 >Games usually have a goal that a player aims to achieve. Early board games represented a battle between two armies, and most modern board games are still based on defeating opponents in terms of counters, winning position, or accrual of points.
 
 #### :floppy_disk:Data Source:
-:diamonds:[Board Game Geek](https://github.com/ThaWeatherman/scrapers/tree/master/boardgamegeek)
+[Board Game Geek](https://github.com/ThaWeatherman/scrapers/tree/master/boardgamegeek)
 #### :mag_right:About this data:
 80,000 board games with information such as `minimum players`, `maximum players`, `minimum playtime`, `maximum playtime`, etc. 
 
